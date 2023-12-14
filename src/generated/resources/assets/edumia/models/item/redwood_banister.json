@@ -1,0 +1,6 @@
+{
+  "parent": "edumia:item/banister_item",
+  "textures": {
+    "texture": "edumia:block/redwood_planks"
+  }
+}

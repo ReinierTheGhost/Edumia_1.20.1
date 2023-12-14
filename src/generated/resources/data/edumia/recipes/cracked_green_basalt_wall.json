@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "edumia:cracked_green_basalt"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 6,
+    "item": "edumia:cracked_green_basalt_wall"
+  },
+  "show_notification": true
+}

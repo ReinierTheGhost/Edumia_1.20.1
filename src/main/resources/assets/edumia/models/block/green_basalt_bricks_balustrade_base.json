@@ -1,0 +1,9 @@
+{
+    "parent": "edumia:block/template_cornice_balustrade_base",
+    "textures": {
+        "particle": "edumia:block/green_basalt_bricks",
+        "body": "edumia:block/green_basalt_bricks",
+        "top": "edumia:block/green_basalt_bricks",
+        "bottom": "edumia:block/green_basalt_bricks"
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "edumia:limestone"
+    }
+  },
+  "pattern": [
+    "G  ",
+    "GG ",
+    "GGG"
+  ],
+  "result": {
+    "count": 4,
+    "item": "edumia:limestone_stairs"
+  },
+  "show_notification": true
+}

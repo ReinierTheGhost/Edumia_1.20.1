@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "edumia:block/stripped_ghost_gum_log",
+    "side": "edumia:block/stripped_ghost_gum_log"
+  }
+}

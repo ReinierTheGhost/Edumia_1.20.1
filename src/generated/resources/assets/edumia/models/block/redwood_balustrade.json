@@ -1,0 +1,9 @@
+{
+  "parent": "edumia:block/template_cornice_balustrade",
+  "textures": {
+    "body": "edumia:block/redwood_planks",
+    "bottom": "edumia:block/redwood_planks",
+    "particle": "edumia:block/redwood_planks",
+    "top": "edumia:block/redwood_planks"
+  }
+}

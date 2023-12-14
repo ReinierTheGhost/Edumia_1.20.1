@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "edumia:yellow_stone_bricks"
+    }
+  },
+  "pattern": [
+    "G  ",
+    "GG ",
+    "GGG"
+  ],
+  "result": {
+    "count": 4,
+    "item": "edumia:yellow_stone_bricks_stairs"
+  },
+  "show_notification": true
+}

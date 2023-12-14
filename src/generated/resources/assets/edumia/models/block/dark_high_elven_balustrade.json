@@ -1,0 +1,9 @@
+{
+  "parent": "edumia:block/template_cornice_balustrade",
+  "textures": {
+    "body": "edumia:block/dark_high_elven_bricks",
+    "bottom": "edumia:block/dark_high_elven_bricks",
+    "particle": "edumia:block/dark_high_elven_bricks",
+    "top": "edumia:block/dark_high_elven_bricks"
+  }
+}

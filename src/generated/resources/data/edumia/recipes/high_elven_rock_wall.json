@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "edumia:high_elven_rock"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 6,
+    "item": "edumia:high_elven_rock_wall"
+  },
+  "show_notification": true
+}

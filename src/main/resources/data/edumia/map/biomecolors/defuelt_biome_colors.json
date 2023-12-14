@@ -1,0 +1,13 @@
+{
+  "load_order": 1,
+  "biome_colors": {
+    "minecraft:deep_ocean": "2F57A7",
+    "minecraft:taiga" : "5A5A1A",
+    "minecraft:forest" : "86823F",
+    "minecraft:jungle" : "86AD3F",
+    "minecraft:river" : "0094FF",
+    "minecraft:stony_peaks" : "785D49",
+    "minecraft:plains" : "E8DBAD",
+    "minecraft:snowy_plains" : "F5FFFF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "edumia:yosemite/oak",
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": "edumia:yosemite/oak_mega"
+      },
+      {
+        "chance": 0.075,
+        "feature": "edumia:yellowstone/birch"
+      },
+      {
+        "chance": 0.075,
+        "feature": "edumia:yellowstone/birch_alt"
+      },
+      {
+        "chance": 0.075,
+        "feature": "edumia:yellowstone/spruce_big"
+      },
+      {
+        "chance": 0.075,
+        "feature": "edumia:yellowstone/spruce_big"
+      }
+    ]
+  }
+}

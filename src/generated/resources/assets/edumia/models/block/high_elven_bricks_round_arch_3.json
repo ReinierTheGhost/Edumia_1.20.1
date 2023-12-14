@@ -1,0 +1,12 @@
+{
+  "parent": "edumia:block/template/smooth_round_arch_3",
+  "textures": {
+    "keystones": "edumia:block/high_elven_bricks",
+    "keystones1": "edumia:block/high_elven_bricks",
+    "keystones2": "edumia:block/high_elven_bricks",
+    "particle": "edumia:block/high_elven_bricks",
+    "underside1": "edumia:block/high_elven_bricks",
+    "underside2": "edumia:block/high_elven_bricks",
+    "underside3": "edumia:block/high_elven_bricks"
+  }
+}

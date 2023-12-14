@@ -1,0 +1,11 @@
+{
+  "_comment" : "To load a different map image in your datapack, save it under a new path- DON't just edit and replace the default image!",
+
+  "image": "edumia:map/edumia_biome_map.png",
+  "origin_x": 600,
+  "origin_z": 450,
+  "scale_power": 7,
+  "title": "gui.edumia.map.title.edumia_biome_map",
+  "translate_title": true,
+  "lock_sides": ["north", "east", "south", "west"]
+}

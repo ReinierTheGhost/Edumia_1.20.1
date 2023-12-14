@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:random_selector",
+        "config": {
+          "default": "edumia:baobab/empty",
+          "features": [
+            {
+              "chance": 0.6,
+              "feature": "edumia:baobab/large/canopy"
+            },
+            {
+              "chance": 0.4,
+              "feature": "edumia:baobab/large/trunk"
+            }
+          ]
+        }
+      },
+      "placement": []
+    },
+    "tries": 35,
+    "xz_spread": 0,
+    "y_spread": 0
+  }
+}

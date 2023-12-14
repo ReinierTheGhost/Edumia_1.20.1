@@ -1,0 +1,17 @@
+// 1.20.1	2023-12-14T17:59:52.4590045	Tags for minecraft:block mod id edumia
+ca8ffaeef2cb861ed09d535899e327c396e6ac1f data/edumia/tags/blocks/banisters.json
+ebcf7881dcf42cb3d8c8b5c2e92ebf16fd9d7284 data/edumia/tags/blocks/calcite.json
+9acf2d47dd55b9c0d4a8f456db8c96f53efe55fd data/edumia/tags/blocks/reeds_placeable_on.json
+f8911b78488659d098bf203df734fe34a64793c8 data/edumia/tags/blocks/soil_and_gravel.json
+ec903745da2a5e2daeb6c3c3a97f3eb9c987fc00 data/edumia/tags/blocks/soil_stone.json
+e0fc6fe44a49300a9d8d642051e3741700b97fca data/edumia/tags/blocks/stone_diorite.json
+f92c41ce4c3dd51d875dafefe81e048bf6b8f9ed data/edumia/tags/blocks/stone_only.json
+d1f799f0ab717401d310c7857bc616a655e8a81f data/minecraft/tags/blocks/fences.json
+435e6e3ee7b411b6460263c4d887e651d9f2e845 data/minecraft/tags/blocks/leaves.json
+ae811ed7065bca035579dc9d5d83e908e9366786 data/minecraft/tags/blocks/logs.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/axe.json
+7e100ed8851d7eeb6d6f0fed08a242ce6981b232 data/minecraft/tags/blocks/mineable/pickaxe.json
+e6525abd4df8353c1f0360e7cecb2e51bbbd0e6d data/minecraft/tags/blocks/needs_diamond_tool.json
+6d5828b50a2eadadc4a4c23652b3bd6dd0192671 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+4561b121cb6a656d146c43fa53f1605aaacddb88 data/minecraft/tags/blocks/walls.json

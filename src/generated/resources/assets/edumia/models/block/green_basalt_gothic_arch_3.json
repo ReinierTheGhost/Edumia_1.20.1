@@ -1,0 +1,12 @@
+{
+  "parent": "edumia:block/template/smooth_gothic_arch_3",
+  "textures": {
+    "keystones": "edumia:block/green_basalt",
+    "keystones1": "edumia:block/green_basalt",
+    "keystones2": "edumia:block/green_basalt",
+    "particle": "edumia:block/green_basalt",
+    "underside1": "edumia:block/green_basalt",
+    "underside2": "edumia:block/green_basalt",
+    "underside3": "edumia:block/green_basalt"
+  }
+}

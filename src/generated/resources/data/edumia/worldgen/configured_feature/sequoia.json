@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:tree",
+        "config": {
+          "decorators": [],
+          "dirt_provider": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:dirt"
+            }
+          },
+          "foliage_placer": {
+            "type": "minecraft:mega_pine_foliage_placer",
+            "crown_height": 8,
+            "offset": 0,
+            "radius": 1
+          },
+          "foliage_provider": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "edumia:pine_leaves",
+              "Properties": {
+                "distance": "7",
+                "persistent": "false",
+                "waterlogged": "false"
+              }
+            }
+          },
+          "force_dirt": false,
+          "ignore_vines": false,
+          "minimum_size": {
+            "type": "minecraft:two_layers_feature_size",
+            "limit": 0,
+            "lower_size": 0,
+            "upper_size": 0
+          },
+          "trunk_placer": {
+            "type": "minecraft:giant_trunk_placer",
+            "base_height": 32,
+            "height_rand_a": 22,
+            "height_rand_b": 24
+          },
+          "trunk_provider": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "edumia:pine_log",
+              "Properties": {
+                "axis": "y"
+              }
+            }
+          }
+        }
+      },
+      "placement": []
+    },
+    "tries": 15,
+    "xz_spread": 1,
+    "y_spread": 3
+  }
+}

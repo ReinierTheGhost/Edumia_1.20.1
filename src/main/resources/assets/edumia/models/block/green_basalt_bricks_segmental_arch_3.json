@@ -1,0 +1,13 @@
+{
+    "loader": "forge:obj",
+    "model": "edumia:models/block/obj/smooth_segmental_arch_3.obj",
+    "ambientToFullbright": true,
+    "flip-v": true,
+    "textures": {
+        "particle": "edumia:block/green_basalt_bricks",
+        "keystones": "edumia:block/green_basalt_bricks",
+        "underside1": "edumia:block/green_basalt_bricks",
+        "underside2": "edumia:block/green_basalt_bricks",
+        "underside3": "edumia:block/green_basalt_bricks"
+    }
+}

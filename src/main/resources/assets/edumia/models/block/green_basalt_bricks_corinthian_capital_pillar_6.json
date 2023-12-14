@@ -1,0 +1,10 @@
+{
+	"parent": "edumia:block/template_corinthian_capital_pillar_6",
+	"textures": {
+		"3": "edumia:block/green_basalt_bricks_corinthian_capital_frond",
+		"side": "edumia:block/green_basalt_bricks_corinthian_capital",
+		"particle": "edumia:block/green_basalt_bricks_corinthian_capital",
+		"up": "edumia:block/green_basalt_bricks",
+		"down": "edumia:block/green_basalt_bricks"
+	}
+}

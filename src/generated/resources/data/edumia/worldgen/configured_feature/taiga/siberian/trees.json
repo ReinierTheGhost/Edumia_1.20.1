@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "edumia:taiga/siberian/trees_new",
+    "features": [
+      {
+        "chance": 0.6,
+        "feature": "edumia:taiga/siberian/trees"
+      }
+    ]
+  }
+}

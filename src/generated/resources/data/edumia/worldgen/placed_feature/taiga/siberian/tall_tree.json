@@ -1,0 +1,15 @@
+{
+  "feature": "edumia:taiga/siberian/tall_tree",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 4,
+          "min_inclusive": 1
+        }
+      }
+    }
+  ]
+}

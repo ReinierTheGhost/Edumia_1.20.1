@@ -1,0 +1,6 @@
+{
+  "loader": "forge:obj",
+  "model": "edumia:models/block/obj/smooth_gothic_arch_1.obj",
+  "ambientToFullbright": true,
+  "flip-v": true
+}

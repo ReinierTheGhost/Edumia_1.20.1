@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "edumia:block/okome_planks",
+    "side": "edumia:block/okome_planks",
+    "top": "edumia:block/okome_planks"
+  }
+}

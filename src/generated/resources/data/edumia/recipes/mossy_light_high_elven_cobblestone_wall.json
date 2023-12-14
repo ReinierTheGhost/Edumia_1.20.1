@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "G": {
+      "item": "edumia:mossy_light_high_elven_cobblestone"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 6,
+    "item": "edumia:mossy_light_high_elven_cobblestone_wall"
+  },
+  "show_notification": true
+}

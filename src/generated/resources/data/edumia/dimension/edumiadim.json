@@ -1,0 +1,2379 @@
+{
+  "type": "edumia:edumia_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "edumia:high_elf_plateau",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_plateau",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_plateau",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              0.2666,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_plateau",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              0.2666,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_cliffs",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              0.2666,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_cliffs",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_lowlands",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -0.2666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_lowlands",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_lowlands",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_forest",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.3
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.7799,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.7666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:taiga_mountain_hills",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.3
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.7666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -0.2666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -0.2666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              -0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.115,
+              0.2
+            ],
+            "weirdness": [
+              -0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              0.2
+            ],
+            "weirdness": [
+              0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:high_elf_valley",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.115,
+              0.2
+            ],
+            "weirdness": [
+              0.05,
+              0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:gensai_reef",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.7799
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:gensai_reef",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:gensai_reef",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:gensai_reef",
+          "parameters": {
+            "continentalness": [
+              -1.05,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.7799,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:haze_mountain",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.565,
+              1.0
+            ],
+            "humidity": [
+              0.1,
+              0.565
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:haze_mountain",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.565,
+              1.0
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.565,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.7799
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.05,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.7799,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_frozen_ocean",
+          "parameters": {
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:cold_ocean",
+          "parameters": {
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              -0.155
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_cold_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.7799
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.45,
+              -0.155
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:lukewarm_ocean",
+          "parameters": {
+            "continentalness": [
+              -0.455,
+              -0.2
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              1.0
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:deep_lukewarm_ocean",
+          "parameters": {
+            "continentalness": [
+              -1.2,
+              -0.455
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.7799
+            ],
+            "humidity": [
+              -1.0,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              0.3,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_valley",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_valley",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_grove",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:ogre_forest_grove",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              0.565,
+              1.0
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.2666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.4
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.5666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -1.0,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -0.5666,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.2225
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -0.4,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              -0.2666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.7273,
+              -0.45
+            ],
+            "weirdness": [
+              -0.2666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": -0.35,
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:snow_plains",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0047,
+              -0.45
+            ],
+            "weirdness": [
+              0.2666,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:highlands",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              0.1,
+              0.3
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:highlands",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              -0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:highlands",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -0.35,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -0.155,
+              0.2
+            ],
+            "weirdness": [
+              0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:holy_orc_desert",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:holy_orc_desert",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              -0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:holy_orc_desert",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.05,
+              0.4
+            ],
+            "humidity": [
+              -1.0,
+              -0.35
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.55,
+              1.0
+            ],
+            "weirdness": [
+              0.05,
+              1.0
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              -0.5666
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.565,
+              1.0
+            ],
+            "humidity": [
+              -0.1,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              -1.0,
+              -0.35
+            ],
+            "weirdness": [
+              -1.0,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              -0.2,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              0.4,
+              0.565
+            ],
+            "humidity": [
+              -1.0,
+              0.1
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.2225,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.9333,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              -0.11,
+              0.03
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -1.0,
+              -0.7799
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.5666,
+              -0.05
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.03,
+              0.3
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.7799,
+              -0.375
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.5666,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.3,
+              0.62
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              0.05
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.5666,
+              -0.4
+            ]
+          }
+        },
+        {
+          "biome": "edumia:orc_mesa",
+          "parameters": {
+            "continentalness": [
+              0.62,
+              1.0
+            ],
+            "depth": [
+              -0.005,
+              0.0
+            ],
+            "erosion": [
+              -0.375,
+              -0.2225
+            ],
+            "humidity": [
+              -1.0,
+              -0.585
+            ],
+            "offset": 0.0,
+            "temperature": [
+              0.2,
+              0.55
+            ],
+            "weirdness": [
+              -0.5666,
+              -0.05
+            ]
+          }
+        }
+      ]
+    },
+    "settings": "minecraft:overworld"
+  }
+}

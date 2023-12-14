@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "type\u003dbottom,facing\u003dsouth": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 180,
+      "x": 180,
+      "uvlock": true
+    },
+    "type\u003dbottom,facing\u003dwest": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 270,
+      "x": 180,
+      "uvlock": true
+    },
+    "type\u003dbottom,facing\u003dnorth": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "x": 180,
+      "uvlock": true
+    },
+    "type\u003dbottom,facing\u003deast": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 90,
+      "x": 180,
+      "uvlock": true
+    },
+    "type\u003dtop,facing\u003dsouth": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "uvlock": true
+    },
+    "type\u003dtop,facing\u003dwest": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 90,
+      "uvlock": true
+    },
+    "type\u003dtop,facing\u003dnorth": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 180,
+      "uvlock": true
+    },
+    "type\u003dtop,facing\u003deast": {
+      "model": "edumia:block/green_basalt_bricks_two_meter_arch",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

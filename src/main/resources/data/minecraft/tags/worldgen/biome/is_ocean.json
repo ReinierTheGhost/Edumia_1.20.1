@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#edumia:is_deep_ocean",
+    "edumia:gensai_reef",
+    "edumia:frozen_ocean",
+    "edumia:cold_ocean",
+    "edumia:ocean",
+    "edumia:lukewarm_ocean"
+  ]
+}

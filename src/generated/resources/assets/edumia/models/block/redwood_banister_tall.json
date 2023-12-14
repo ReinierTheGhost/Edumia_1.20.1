@@ -1,0 +1,6 @@
+{
+  "parent": "edumia:block/banister_tall",
+  "textures": {
+    "texture": "edumia:block/redwood_planks"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "edumia:block/template/smooth_round_arch_2",
+  "textures": {
+    "keystones": "edumia:block/green_basalt",
+    "particle": "edumia:block/green_basalt",
+    "underside1": "edumia:block/green_basalt",
+    "underside2": "edumia:block/green_basalt",
+    "underside3": "edumia:block/green_basalt"
+  }
+}

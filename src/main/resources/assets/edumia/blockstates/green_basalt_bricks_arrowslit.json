@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing\u003dsouth": {"model": "edumia:block/green_basalt_bricks_arrowslit", "y": 180, "uvlock": true},
+    "facing\u003dwest": {"model": "edumia:block/green_basalt_bricks_arrowslit", "y": 270, "uvlock": true},
+    "facing\u003dnorth": {"model": "edumia:block/green_basalt_bricks_arrowslit", "uvlock": true},
+    "facing\u003deast": {"model": "edumia:block/green_basalt_bricks_arrowslit", "y": 90, "uvlock": true}
+  }
+}

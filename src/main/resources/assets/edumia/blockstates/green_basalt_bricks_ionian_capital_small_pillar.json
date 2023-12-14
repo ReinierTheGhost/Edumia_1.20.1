@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "edumia:block/green_basalt_bricks_ionian_capital_fence_post" },
+        "axis=z":   { "model": "edumia:block/green_basalt_bricks_ionian_capital_fence_post_side" },
+        "axis=x":   { "model": "edumia:block/green_basalt_bricks_ionian_capital_fence_post_side", "y": 90 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "edumia:block/beech_log",
+    "side": "edumia:block/beech_log"
+  }
+}

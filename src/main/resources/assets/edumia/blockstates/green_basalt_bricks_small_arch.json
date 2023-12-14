@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "direction\u003deastwest": {
+      "model": "edumia:block/green_basalt_bricks_small_arch",
+      "y": 90
+    },
+    "direction\u003dnorthsouth": {
+      "model": "edumia:block/green_basalt_bricks_small_arch"
+    }
+  }
+}

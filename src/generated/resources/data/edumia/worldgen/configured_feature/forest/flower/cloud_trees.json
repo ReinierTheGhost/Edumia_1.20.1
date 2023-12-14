@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "edumia:nothing",
+    "features": [
+      {
+        "chance": 0.6,
+        "feature": "edumia:forest/flower/cloud_tree"
+      }
+    ]
+  }
+}
