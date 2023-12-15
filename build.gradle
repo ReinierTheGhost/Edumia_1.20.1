@@ -172,16 +172,15 @@ dependencies {
     runtimeOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}"))
 
     runtimeOnly fg.deobf("curse.maven:worldedit-225608:4586218")
-    implementation fg.deobf('software.bernie.geckolib:geckolib-forge-1.20.1:4.2.2')
     implementation fg.deobf("curse.maven:architectury-api-419699:4663010")
     implementation fg.deobf("curse.maven:terralith-513688:4657064")
 
     implementation fg.deobf("curse.maven:jade-324717:4768593")
-    implementation fg.deobf("curse.maven:serene-seasons-291874:4761603")
+    compileOnly fg.deobf("curse.maven:serene-seasons-291874:4761603")
 
-    implementation fg.deobf("curse.maven:pams-harvestcraft-2-food-core-372534:4580935")
-    implementation fg.deobf("curse.maven:pams-harvestcraft-2-crops-361385:4687624")
-    implementation fg.deobf("curse.maven:pams-harvestcraft-2-trees-365460:4625518")
+    compileOnly fg.deobf("curse.maven:pams-harvestcraft-2-food-core-372534:4580935")
+    compileOnly fg.deobf("curse.maven:pams-harvestcraft-2-crops-361385:4687624")
+    compileOnly fg.deobf("curse.maven:pams-harvestcraft-2-trees-365460:4625518")
 
 
     // Example mod dependency using a mod jar from ./libs with a flat dir repository

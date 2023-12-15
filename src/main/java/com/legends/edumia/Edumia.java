@@ -10,10 +10,10 @@ import com.legends.edumia.common.EdumiaServerProxy;
 import com.legends.edumia.config.EdumiaConfig;
 import com.legends.edumia.core.*;
 
-import com.legends.edumia.worldgen.biome.EdumiaBiomes;
-import com.legends.edumia.worldgen.biome.EdumiaBiomesData;
-import com.legends.edumia.worldgen.dimension.EdumiaDimensions;
-import com.legends.edumia.worldgen.gen.map.MapImageLoader;
+import com.legends.edumia.worldgen.mapGen.biomes.EdumiaBiomeKeys;
+import com.legends.edumia.worldgen.mapGen.biomes.EdumiaBiomesData;
+import com.legends.edumia.worldgen.mapGen.chunkgen.map.MapImageLoader;
+import com.legends.edumia.worldgen.mapGen.dimension.ModDimensions;
 import com.legends.edumia.worldgen.tree.EdumiaFoliagePlacer;
 import com.mojang.logging.LogUtils;
 
@@ -83,10 +83,10 @@ public class Edumia
 
 
 
-//        EdumiaDimensions.register();
-//        EdumiaBiomes.registerModBiomes();
-//        EdumiaBiomesData.loadBiomes();
-
+//        ModDimensions.register(eventBus);
+//        EdumiaBiomeKeys.registerModBiomes(eventBus);
+//        EdumiaBiomesData.loadBiomes(eventBus);
+//
 //        try {
 //            MapImageLoader.loadImage(getClass().getClassLoader());
 //        } catch (IOException | URISyntaxException e) {
